@@ -1,0 +1,5 @@
+name: CombatStats
+author: FusionFish
+main: cn.fusionfish.combatstats.CombatStats
+version: 1.0
+api-version: 1.16
